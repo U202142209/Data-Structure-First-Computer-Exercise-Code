@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据结构第一次上机-复数", "数据结构第一次上机-复数\数据结构第一次上机-复数.csproj", "{CF171564-97C1-4E97-BB3A-4B2BD0FD1C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF171564-97C1-4E97-BB3A-4B2BD0FD1C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF171564-97C1-4E97-BB3A-4B2BD0FD1C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF171564-97C1-4E97-BB3A-4B2BD0FD1C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF171564-97C1-4E97-BB3A-4B2BD0FD1C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0CC4F6-62B3-49B3-9AB1-825C40C38217}
+	EndGlobalSection
+EndGlobal

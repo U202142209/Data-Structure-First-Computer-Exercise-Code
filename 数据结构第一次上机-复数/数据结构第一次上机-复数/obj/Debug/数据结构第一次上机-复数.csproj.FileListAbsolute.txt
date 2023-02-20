@@ -1,0 +1,10 @@
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机-复数.csproj.AssemblyReference.cache
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机_复数.Form1.resources
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机_复数.Properties.Resources.resources
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机-复数.csproj.GenerateResource.cache
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机-复数.csproj.CoreCompileInputs.cache
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\bin\Debug\数据结构第一次上机-复数.exe.config
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\bin\Debug\数据结构第一次上机-复数.exe
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\bin\Debug\数据结构第一次上机-复数.pdb
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机-复数.exe
+C:\Users\赵薇嘉\source\repos\数据结构第一次上机-复数\数据结构第一次上机-复数\obj\Debug\数据结构第一次上机-复数.pdb
